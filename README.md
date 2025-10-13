@@ -8,3 +8,6 @@ Compilation of skins used by Flora091 (Zoomiee).
 
 # [rafis](https://zoomieeasd.s-ul.eu/KJ8lyyxV) (13.10.2025)
 ![screenshot2](screenshots/screenshot010.jpg)
+
+# [x__x](https://zoomieeasd.s-ul.eu/s2JoXEsY) (NN.10.2025)
+![screenshot3](screenshots/screenshot010.jpg)
