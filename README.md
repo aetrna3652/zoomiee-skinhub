@@ -1,4 +1,4 @@
-# FIora091-Zoomiee-skinhub
+# Zoomiee skinhub
 Compilation of skins used by Flora091 (Zoomiee).
 
 ## [Player osu profile](https://osu.ppy.sh/users/12482926)
