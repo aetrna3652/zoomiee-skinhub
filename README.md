@@ -4,10 +4,10 @@ Compilation of skins used by Zoomiee.
 ## [Player osu profile](https://osu.ppy.sh/users/12482926)
 
 # [lifeline](https://zoomieeasd.s-ul.eu/QT7ULGO5)
-![screenshot4](screenshots/screenshot004.jpg)
+![screenshot4](screenshots/screenshot023.jpg)
 
 # [glow](https://zoomieeasd.s-ul.eu/yNRZNiTN)
-![screenshot5](screenshots/screenshot004.jpg)
+![screenshot5](screenshots/screenshot021.jpg)
 
 # [monko](https://zoomieeasd.s-ul.eu/j1nXBTlK)
 ![screenshot1](screenshots/screenshot004.jpg)
